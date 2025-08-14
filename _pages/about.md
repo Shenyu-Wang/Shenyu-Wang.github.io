@@ -31,6 +31,10 @@ Research Interests
 
 Projects
 ------------------------
+**Cross-Stage KV Cache Optimization for LLM Inference** *(ongoing)*   
+Developed an algorithm–hardware co-design framework to mitigate KV cache bottlenecks in LLM inference through coordinated compression across sequence length, feature dimensionality, and data format.  
+
+
 **Energy-Efficient Visual-Aided Speech Enhancement Processor** *(ongoing)*  
 Developed a **dual-modal processor architecture** that leverages visual–audio fusion to achieve high noise tolerance and ultra-low power consumption.  
 - Proposed the first **redundancy speculation dynamic computing** architecture to remove 36.9% redundant operations by adaptively enabling visual fusion  
