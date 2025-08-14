@@ -31,17 +31,6 @@ Research Interests
 
 Projects
 ------------------------
-**Cross-Stage KV Cache Optimization for LLM Inference** *(ongoing)*   
-Developed an algorithm–hardware co-design framework to mitigate KV cache bottlenecks in LLM inference through coordinated compression across sequence length, feature dimensionality, and data format.  
-- Proposed the first **cross-stage optimization** framework for KV cache storage 
-- Designed **dynamic token pruning**, **low-rank key-vector compression**, and **lossless data-format encoding** strategies tailored to the three optimization stages 
-  - Designed a **Derivative-Enhanced Dynamic Progressive Pruning (DEDP)** method for token-level sequence length reduction
-  - Proposed a **DCT-Driven Key-Vector Low-Rank Compressing (DLRC)** technique to exploit feature-space redundancy
-  - Introduced a **Dynamic Clustered Hybrid Run-Length Encoding (DC-HRLE)** scheme for lossless data-format compression
-- Implemented the algorithms in a **22 nm CMOS accelerator**, achieving **4.11×** speedup and **4.80×** energy efficiency improvement over SoTA baselines 
-
-  
-
 **Energy-Efficient Visual-Aided Speech Enhancement Processor** *(ongoing)*  
 Developed a **dual-modal processor architecture** that leverages visual–audio fusion to achieve high noise tolerance and ultra-low power consumption.  
 - Proposed the first **redundancy speculation dynamic computing** architecture to remove 36.9% redundant operations by adaptively enabling visual fusion  
