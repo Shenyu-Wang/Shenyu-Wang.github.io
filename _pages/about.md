@@ -74,7 +74,7 @@ B.Eng. in Electronic Information Science and Technology
 
 Publications
 ------------------------
-- **A 3.64μJ/Frame Visual-Aided Speech Enhancement Processor Tolerating -10dB SNR Input for Hearing Aids in 22nm CMOS**
+- **A 3.64μJ/Frame Visual-Aided Speech Enhancement Processor Tolerating -10dB SNR Input for Hearing Aids in 22nm CMOS**  
   Nan Wu, **Shenyu Wang**, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Zhihua Wang, Hanjun Jiang  
   *IEEE Asian Conference on Solid-State Circuits (ASSCC)*, 2025. [DOI/Link]
 - **A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices**  
