@@ -8,21 +8,21 @@ redirect_from:
 ---
 
 
-About Me
-========================
 
+About Me
+------------------------
 I am a third-year PhD student at the Micro-nano System Center, Fudan University.  My research interests include AI accelerator architectures, energy-efficient and high-performance computing , and very-large-scale integrated digital signal processing, with a particular emphasis on leveraging more efficient computing paradigms and hardware architectures to achieve high-efficiency network model deployment through hardware–software co-design. 
 
 
 
-# Research Interests
-
-#### Accelerator Hardware–Software Co-Optimization for LLM and NN Inference   
+Research Interests
+------------------------
+**Accelerator Hardware–Software Co-Optimization for LLM and NN Inference**   
 
 - Dynamic KV Cache Storage Optimization to Alleviate Memory Bottlenecks in LLM Inference 
 - Sparse CNN Processing Architecture Leveraging Sparsity-Aware Reordering to Optimize Memory Access and Achieve High-Efficiency Computation 
 
-#### Multi-Modal Speech Processing System Design   
+**Multi-Modal Speech Processing System Design**   
 
 - Millimeter-wave, visual and audio signal fusion for beyond-line-of-sight speech perception and real-time multi-modal processing 
 - System-level integration and hardware optimization for low-latency, high-accuracy multi-modal speech processing under challenging acoustic conditions   
@@ -30,8 +30,8 @@ I am a third-year PhD student at the Micro-nano System Center, Fudan University.
 
 
 Projects
-========================
-#### Cross-Stage KV Cache Optimization for LLM Inference *(ongoing)*   
+------------------------
+**Cross-Stage KV Cache Optimization for LLM Inference** *(ongoing)*   
 
 Developed an algorithm–hardware co-design framework to mitigate KV cache bottlenecks in LLM inference through coordinated compression across sequence length, feature dimensionality, and data format.  
 
@@ -47,7 +47,7 @@ Developed an algorithm–hardware co-design framework to mitigate KV cache bottl
 
   
 
-#### Energy-Efficient Visual-Aided Speech Enhancement Processor *(ongoing)*  
+**Energy-Efficient Visual-Aided Speech Enhancement Processor** *(ongoing)*  
 
 Developed a **dual-modal processor architecture** that leverages visual–audio fusion to achieve high noise tolerance and ultra-low power consumption.  
 
@@ -59,7 +59,7 @@ Fabricated in 22nm CMOS, achieving 228 μW power consumption, 3.23× higher ener
 
 
 
-#### Beyond-Sparsity CNN Processing Architecture for Edge Devices *(ongoing)*   
+**Beyond-Sparsity CNN Processing Architecture for Edge Devices** *(ongoing)*   
 
 Developed a hardware–algorithm co-design framework to enhance sparsity exploitation in CNNs, reducing redundant computations and memory accesses for energy-efficient edge inference.  
 
@@ -71,7 +71,7 @@ Developed a hardware–algorithm co-design framework to enhance sparsity exploit
 
   
 
-#### Millimeter-Wave-Based Multi-Modal Real-Time Speech Processing System *(ongoing)*    
+**Millimeter-Wave-Based Multi-Modal Real-Time Speech Processing System** *(ongoing)*    
 
 Developed a multi-modal real-time speech processing architecture leveraging beyond-line-of-sight millimeter-wave signals to enhance speech perception and robustness.  
 
@@ -82,7 +82,7 @@ Developed a multi-modal real-time speech processing architecture leveraging beyo
 
 
 Education 
-========================
+------------------------
 **Fudan University**, Shanghai, China    
 Ph.D. Candidate in Electronic Information  
 *Sep. 2023 – Present* 
@@ -94,7 +94,7 @@ B.Eng. in Electronic Information Science and Technology
 
 
 Publications
-========================
+------------------------
 - **A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices**  
   **Shenyu Wang**, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, Hanjun Jiang  
   *IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)*, 2025. [DOI/Link]  
@@ -104,9 +104,8 @@ Publications
 
 
 
-
 Contact
-========================
+------------------------
 Email: shenyuwang23@m.fudan.edu.cn  
 If you are interested in our work, please feel free to reach out to discuss potential collaborations or to exchange research ideas! 
 
