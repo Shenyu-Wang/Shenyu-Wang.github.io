@@ -1,141 +1,93 @@
 ---
-layout: researcher-home
 permalink: /
-title:
-author_profile: false
-redirect_from:
+title: "Shenyu’s Academic Pages"
+author_profile: true
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-<section class="researcher-hero">
-  <div>
-    <p class="researcher-eyebrow">Ph.D. Candidate | Fudan University</p>
-    <h1>Shenyu Wang</h1>
-    <p class="researcher-subtitle">
-      I work on AI accelerator architecture, energy-efficient hardware computing, and low-power digital circuits, with a focus on hardware-software co-design for efficient neural network and LLM inference.
-    </p>
-    <div class="researcher-actions">
-      <a class="researcher-button researcher-button--primary" href="mailto:shenyuwang23@m.fudan.edu.cn">Email Me</a>
-      <a class="researcher-button" href="/cv/">View CV</a>
-      <a class="researcher-button" href="http://orcid.org/0009-0008-2549-6264">ORCID</a>
-    </div>
-  </div>
-  <aside class="researcher-portrait" aria-label="Profile photo">
-    <div class="researcher-portrait-card">
-      <img src="/images/shenyu.jpg" alt="Shenyu Wang">
-      <p class="researcher-card-note">
-        Micro-nano System Center, Fudan University<br>
-        Shanghai, China
-      </p>
-    </div>
-  </aside>
-</section>
 
-<section class="researcher-section" id="research">
-  <h2>Research Interests</h2>
-  <div class="researcher-grid">
-    <article class="researcher-card">
-      <h3>Accelerator Hardware-Software Co-Optimization</h3>
-      <p>
-        Efficient inference systems for LLMs and neural networks, including KV cache optimization, memory bottleneck reduction, sparse CNN processing, and architecture-level energy efficiency.
-      </p>
-    </article>
-    <article class="researcher-card">
-      <h3>Multi-Modal Speech Processing Systems</h3>
-      <p>
-        Millimeter-wave, visual, and audio signal fusion for beyond-line-of-sight speech perception, real-time processing, and robust low-power hardware implementation.
-      </p>
-    </article>
-  </div>
-</section>
 
-<section class="researcher-section" id="projects">
-  <h2>Research Projects</h2>
-  <div class="researcher-grid">
-    <article class="researcher-card">
-      <h3>Cross-Stage KV Cache Optimization for LLM Inference</h3>
-      <p>
-        An algorithm-hardware co-design framework that reduces KV cache pressure across sequence length, feature dimensionality, and data format.
-      </p>
-    </article>
-    <article class="researcher-card">
-      <h3>Energy-Efficient Visual-Aided Speech Enhancement Processor</h3>
-      <p>
-        A dual-modal processor architecture for visual-audio fusion, designed for high noise tolerance and ultra-low power consumption.
-      </p>
-      <ul>
-        <li>Removes 36.9% redundant operations through redundancy speculation dynamic computing.</li>
-        <li>Reduces toggle rate by 84.7% with a bipolar computing engine.</li>
-        <li>Fabricated in 22 nm CMOS with 228 uW power consumption.</li>
-      </ul>
-    </article>
-    <article class="researcher-card">
-      <h3>Beyond-Sparsity CNN Processing Architecture</h3>
-      <p>
-        A sparsity-aware architecture for edge inference that eliminates weak-contribution values and reduces memory access for efficient CNN processing.
-      </p>
-      <ul>
-        <li>Achieves 65.16% increased sparsity and 79.98% MAC reduction.</li>
-        <li>Delivers 14.15 TOPS/W energy efficiency.</li>
-      </ul>
-    </article>
-    <article class="researcher-card">
-      <h3>Millimeter-Wave-Based Multi-Modal Speech Processing</h3>
-      <p>
-        A real-time multi-modal speech system combining millimeter-wave sensing and audio signals for robust perception under challenging acoustic conditions.
-      </p>
-    </article>
-  </div>
-</section>
+About Me
+------------------------
+I am a third-year PhD student at the Micro-nano System Center, Fudan University.  My research interests include AI accelerator architectures, energy-efficient and high-performance computing , and very-large-scale integrated digital signal processing, with a particular emphasis on leveraging more efficient computing paradigms and hardware architectures to achieve high-efficiency network model deployment through hardware–software co-design. 
 
-<section class="researcher-section" id="publications">
-  <h2>Selected Publications</h2>
-  <div class="researcher-list">
-    <article class="researcher-publication">
-      <h3>A 3.64 uJ/Frame Visual-Aided Speech Enhancement Processor Tolerating -10 dB SNR Input for Hearing Aids in 22 nm CMOS</h3>
-      <p>Nan Wu, <strong>Shenyu Wang</strong>, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Zhihua Wang, Hanjun Jiang</p>
-      <p class="researcher-meta">IEEE ASSCC, 2025</p>
-    </article>
-    <article class="researcher-publication">
-      <h3>A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices</h3>
-      <p><strong>Shenyu Wang</strong>, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, Hanjun Jiang</p>
-      <p class="researcher-meta">IEEE MWSCAS, 2025</p>
-    </article>
-    <article class="researcher-publication">
-      <h3>A 470 uW and 875 fps Throughput JPEG-LS Accelerator in 65 nm CMOS</h3>
-      <p>Nan Wu, <strong>Shenyu Wang</strong>, Yaoyu Li, Tian Tian, Yanshu Guo, Zhihua Wang, Hanjun Jiang</p>
-      <p class="researcher-meta">IEEE ICTA, 2024</p>
-    </article>
-  </div>
-</section>
 
-<section class="researcher-section" id="education">
-  <h2>Education</h2>
-  <div class="researcher-timeline">
-    <div class="researcher-timeline-item">
-      <div class="researcher-date">2023 - Present</div>
-      <div>
-        <strong>Fudan University</strong><br>
-        Ph.D. Candidate in Electronic Information
-      </div>
-    </div>
-    <div class="researcher-timeline-item">
-      <div class="researcher-date">2019 - 2023</div>
-      <div>
-        <strong>Fudan University</strong><br>
-        B.Eng. in Electronic Information Science and Technology
-      </div>
-    </div>
-  </div>
-</section>
 
-<section class="researcher-section" id="contact">
-  <h2>Contact</h2>
-  <div class="researcher-contact">
-    <p>
-      I welcome conversations about efficient AI hardware, multi-modal processing systems, and research collaborations.
-    </p>
-    <a class="researcher-button researcher-button--primary" href="mailto:shenyuwang23@m.fudan.edu.cn">shenyuwang23@m.fudan.edu.cn</a>
-  </div>
-</section>
+Research Interests
+------------------------
+**Accelerator Hardware–Software Co-Optimization for LLM and NN Inference**   
+
+- Dynamic KV Cache Storage Optimization to Alleviate Memory Bottlenecks in LLM Inference 
+- Sparse CNN Processing Architecture Leveraging Sparsity-Aware Reordering to Optimize Memory Access and Achieve High-Efficiency Computation 
+
+**Multi-Modal Speech Processing System Design**   
+
+- Millimeter-wave, visual and audio signal fusion for beyond-line-of-sight speech perception and real-time multi-modal processing 
+- System-level integration and hardware optimization for low-latency, high-accuracy multi-modal speech processing under challenging acoustic conditions   
+
+
+
+Projects
+------------------------
+**Cross-Stage KV Cache Optimization for LLM Inference** *(ongoing)*   
+Developed an algorithm–hardware co-design framework to mitigate KV cache bottlenecks in LLM inference through coordinated compression across sequence length, feature dimensionality, and data format.  
+
+
+**Energy-Efficient Visual-Aided Speech Enhancement Processor** *(ongoing)*  
+Developed a **dual-modal processor architecture** that leverages visual–audio fusion to achieve high noise tolerance and ultra-low power consumption.  
+- Proposed the first **redundancy speculation dynamic computing** architecture to remove 36.9% redundant operations by adaptively enabling visual fusion  
+- Designed a **bipolar computing engine** to reorder accumulation sequences, reducing toggle rate by 84.7% and improving efficiency by 2.51×
+- Developed a **multi-domain coding processing element** supporting INT, PoT, and APoT computation, improving efficiency by up to 2.14× and reducing memory access by 16.5%
+Fabricated in 22nm CMOS, achieving 228 μW power consumption, 3.23× higher energy efficiency, and tolerating input noise levels down to –10 dB SNR
+
+
+
+**Beyond-Sparsity CNN Processing Architecture for Edge Devices** *(ongoing)*   
+Developed a hardware–algorithm co-design framework to enhance sparsity exploitation in CNNs, reducing redundant computations and memory accesses for energy-efficient edge inference.  
+- Proposed a **beyond-sparsity paradigm** to eliminate weak-contribution values in addition to zeros   
+- Designed a **beyond-sparsity processing element** with sparsity-rescheduled memory access to lower dynamic power consumption and memory bandwidth requirements  
+- Validated on public datasets and diverse NN models (achieving a **65.16% increase in sparsity** and a **79.98% reduction in MAC operations**, delivering **14.15 TOPS/W** energy efficiency)
+
+  
+
+**Millimeter-Wave-Based Multi-Modal Real-Time Speech Processing System** *(ongoing)*    
+Developed a multi-modal real-time speech processing architecture leveraging beyond-line-of-sight millimeter-wave signals to enhance speech perception and robustness.  
+- Designed a **real-time speech processing algorithm** that fuses millimeter-wave sensing with audio signals for improved noise resilience and speaker localization
+- Optimized hardware architecture for low-latency multi-modal data acquisition and processing
+- Implemented and validated the system on a prototype platform, achieving high accuracy and real-time performance under challenging acoustic environments
+
+
+
+Education 
+------------------------
+**Fudan University**, Shanghai, China    
+Ph.D. Candidate in Electronic Information  
+*Sep. 2023 – Present* 
+
+**Fudan University**, Shanghai, China    
+B.Eng. in Electronic Information Science and Technology  
+*Sep. 2019 – Jun. 2023*  
+
+
+
+Publications
+------------------------
+- **A 3.64μJ/Frame Visual-Aided Speech Enhancement Processor Tolerating -10dB SNR Input for Hearing Aids in 22nm CMOS**  
+  Nan Wu, **Shenyu Wang**, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Zhihua Wang, Hanjun Jiang  
+  *IEEE Asian Conference on Solid-State Circuits (ASSCC)*, 2025. [DOI/Link]
+- **A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices**  
+  **Shenyu Wang**, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, Hanjun Jiang  
+  *IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)*, 2025. [DOI/Link]  
+- **A 470 μW and 875 fps Throughput JPEG-LS Accelerator in 65nm CMOS**  
+  Nan Wu, **Shenyu Wang**, Yaoyu Li, Tian Tian, Yanshu Guo, Zhihua Wang, Hanjun Jiang  
+  *IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*, 2024. [DOI/Link]  
+
+
+
+Contact
+------------------------
+Email: shenyuwang23@m.fudan.edu.cn  
+If you are interested in our work, please feel free to reach out to discuss potential collaborations or to exchange research ideas! 
+
