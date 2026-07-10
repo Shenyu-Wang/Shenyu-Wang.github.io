@@ -26,6 +26,11 @@
   gap: 1.1rem;
 }
 
+.greedy-nav > button,
+.greedy-nav .hidden-links {
+  display: none !important;
+}
+
 .masthead__menu-item {
   background: transparent;
 }
