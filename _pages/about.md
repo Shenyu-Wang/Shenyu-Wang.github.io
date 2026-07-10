@@ -62,25 +62,33 @@ B.Eng. in Electronic Information Science and Technology
 
 Publications
 ------------------------
-[1] **A 54.1-387.5-uW 65-nm Multimodal SoC Integrating a Custom CISC Core for Edge IoT Applications**  
-&nbsp;&nbsp;Nan Wu, **Shenyu Wang**, Tian Tian, Zhihua Wang, Yanshu Guo, and Hanjun Jiang  
-&nbsp;&nbsp;*IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 34, no. 6, 2026. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%2054.1-387.5-uW%2065-nm%20Multimodal%20SoC%20Integrating%20a%20Custom%20CISC%20Core%20for%20Edge%20IoT%20Applications)
-
-[2] **CrossKV: Accelerating Large Language Model Inference via Cross-Stage Dynamic Co-Optimization for KV Cache**  
-&nbsp;&nbsp;Nan Wu, **Shenyu Wang**, Huizheng Wang, Peng Wang, Xiao Liu, Zhihua Wang, Yang Hu, and Hanjun Jiang  
-&nbsp;&nbsp;*IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 73, no. 7, 2026. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=CrossKV%3A%20Accelerating%20Large%20Language%20Model%20Inference%20via%20Cross-Stage%20Dynamic%20Co-Optimization%20for%20KV%20Cache)
-
-[3] **A 3.64 uJ/frame Visual-Aided Speech Enhancement Processor Tolerating -10 dB SNR Input for Hearing Aids in 22 nm CMOS**  
-&nbsp;&nbsp;Nan Wu, **Shenyu Wang**, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Yansu Guo, Zhihua Wang, and Hanjun Jiang  
-&nbsp;&nbsp;*2025 IEEE Asian Solid-State Circuits Conference (A-SSCC)*, 2025. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%203.64%20uJ%2Fframe%20Visual-Aided%20Speech%20Enhancement%20Processor%20Tolerating%20-10%20dB%20SNR%20Input%20for%20Hearing%20Aids%20in%2022%20nm%20CMOS)
-
-[4] **A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices**  
-&nbsp;&nbsp;**Shenyu Wang**, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, and Hanjun Jiang  
-&nbsp;&nbsp;*IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)*, 2025. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%2014.15%20TOPS%2FW%20Energy-Efficient%20CNN%20Processing%20Architecture%20with%20Beyond-Sparsity%20Computing%20Engine%20towards%20Edge%20Devices)
-
-[5] **A 470 uW and 875 fps Throughput JPEG-LS Accelerator in 65 nm CMOS**  
-&nbsp;&nbsp;Nan Wu, **Shenyu Wang**, Yaoyu Li, Tian Tian, Yanshu Guo, Zhihua Wang, and Hanjun Jiang  
-&nbsp;&nbsp;*2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*, 2024. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20470%20uW%20and%20875%20fps%20Throughput%20JPEG-LS%20Accelerator%20in%2065%20nm%20CMOS)
+<ol class="publication-list">
+  <li>
+    <strong>A 54.1-387.5-μW 65-nm Multimodal SoC Integrating a Custom CISC Core for Edge IoT Applications</strong><br>
+    Nan Wu, <strong>Shenyu Wang</strong>, Tian Tian, Zhihua Wang, Yanshu Guo, and Hanjun Jiang<br>
+    <em>IEEE Transactions on Very Large Scale Integration (VLSI) Systems</em>, vol. 34, no. 6, 2026. [DOI: 10.1109/tvlsi.2026.3670378 / <a href="https://ieeexplore.ieee.org/document/11471281">Link</a>]
+  </li>
+  <li>
+    <strong>CrossKV: Accelerating Large Language Model Inference via Cross-Stage Dynamic Co-Optimization for KV Cache</strong><br>
+    Nan Wu, <strong>Shenyu Wang</strong>, Huizheng Wang, Peng Wang, Xiao Liu, Zhihua Wang, Yang Hu, and Hanjun Jiang<br>
+    <em>IEEE Transactions on Circuits and Systems I: Regular Papers</em>, vol. 73, no. 7, 2026. [DOI: 10.1109/tcsi.2026.3668423 / <a href="https://ieeexplore.ieee.org/document/11421352">Link</a>]
+  </li>
+  <li>
+    <strong>A 3.64 μJ/frame Visual-Aided Speech Enhancement Processor Tolerating -10 dB SNR Input for Hearing Aids in 22 nm CMOS</strong><br>
+    Nan Wu, <strong>Shenyu Wang</strong>, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Yansu Guo, Zhihua Wang, and Hanjun Jiang<br>
+    <em>2025 IEEE Asian Solid-State Circuits Conference (A-SSCC)</em>, 2025. [DOI: 10.1109/a-sscc67472.2025.11349465 / <a href="https://ieeexplore.ieee.org/document/11349465">Link</a>]
+  </li>
+  <li>
+    <strong>A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices</strong><br>
+    <strong>Shenyu Wang</strong>, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, and Hanjun Jiang<br>
+    <em>IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)</em>, 2025. [DOI: 10.1109/mwscas53549.2025.11244532 / <a href="https://ieeexplore.ieee.org/document/11244532">Link</a>]
+  </li>
+  <li>
+    <strong>A 470 μW and 875 fps Throughput JPEG-LS Accelerator in 65 nm CMOS</strong><br>
+    Nan Wu, <strong>Shenyu Wang</strong>, Yaoyu Li, Tian Tian, Yanshu Guo, Zhihua Wang, and Hanjun Jiang<br>
+    <em>2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)</em>, 2024. [DOI: 10.1109/icta64028.2024.10860422 / <a href="https://ieeexplore.ieee.org/document/10860422">Link</a>]
+  </li>
+</ol>
 
 Contact
 ------------------------

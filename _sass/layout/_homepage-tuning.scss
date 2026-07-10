@@ -43,6 +43,26 @@
   font-weight: 650;
 }
 
+.publication-list {
+  counter-reset: publication;
+  list-style: none;
+  margin-left: 0;
+  padding-left: 2.1rem;
+}
+
+.publication-list li {
+  counter-increment: publication;
+  position: relative;
+  margin-bottom: 1.35rem;
+}
+
+.publication-list li::before {
+  content: "[" counter(publication) "]";
+  position: absolute;
+  left: -2.1rem;
+  font-weight: 650;
+}
+
 .page__title {
   margin-bottom: 2rem;
   font-size: 1.75rem;
@@ -64,12 +84,23 @@
 
 @media screen and (min-width: 1024px) {
   #main {
+    width: calc(100vw - 4rem) !important;
+    max-width: none !important;
     margin-top: 2.6em;
   }
 
   .page {
-    padding-left: 2.5% !important;
-    padding-right: 0 !important;
+    width: calc(100% - 245px) !important;
+    max-width: none !important;
+    margin-right: 0 !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
     padding-bottom: 3rem;
+  }
+
+  .page__inner-wrap,
+  .page__content {
+    width: 100% !important;
+    max-width: none !important;
   }
 }
