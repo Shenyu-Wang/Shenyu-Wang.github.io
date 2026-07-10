@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<span id="about"></span>
+
 About Me
 ------------------------
 I am a third-year Ph.D. student at the Micro-nano System Center, Fudan University. My research focuses on AI accelerator architectures, energy-efficient hardware computing, and low-power digital circuits.
 
 I am particularly interested in hardware-software co-design for efficient neural network and LLM inference, with an emphasis on reducing memory bottlenecks, improving data reuse, and enabling high-efficiency model deployment on specialized hardware.
+
+<span id="research"></span>
 
 Research Interests
 ------------------------
@@ -60,6 +64,8 @@ Ph.D. Candidate in Electronic Information
 B.Eng. in Electronic Information Science and Technology  
 *Sep. 2019 - Jun. 2023*
 
+<span id="publications"></span>
+
 Publications
 ------------------------
 <ol class="publication-list">
@@ -89,6 +95,8 @@ Publications
     <em>2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)</em>, 2024. [DOI: 10.1109/icta64028.2024.10860422 / <a href="https://ieeexplore.ieee.org/document/10860422">Link</a>]
   </li>
 </ol>
+
+<span id="contact"></span>
 
 Contact
 ------------------------

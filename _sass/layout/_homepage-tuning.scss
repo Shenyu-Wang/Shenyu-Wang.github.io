@@ -6,6 +6,52 @@
   max-width: none;
 }
 
+.masthead {
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow: 0 1px 10px rgba(0, 0, 0, 0.04);
+}
+
+.masthead__inner-wrap {
+  width: calc(100vw - 6rem);
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0.45rem;
+  padding-bottom: 0.45rem;
+}
+
+.greedy-nav .visible-links {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+}
+
+.masthead__menu-item {
+  background: transparent;
+}
+
+.masthead__menu-item--lg {
+  margin-right: auto;
+  padding-right: 0;
+}
+
+.masthead__menu-item--lg a {
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.masthead__menu-item:not(.masthead__menu-item--lg) a {
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+#about,
+#research,
+#publications,
+#contact {
+  scroll-margin-top: 5rem;
+}
+
 .page__content p,
 .page__content li {
   font-size: 0.92rem;
@@ -86,6 +132,8 @@
   #main {
     width: calc(100vw - 6rem) !important;
     max-width: 1500px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     margin-top: 2.6em;
   }
 
