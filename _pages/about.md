@@ -62,17 +62,25 @@ B.Eng. in Electronic Information Science and Technology
 
 Publications
 ------------------------
-[IEEE Author Profile](https://ieeexplore.ieee.org/author/37089865903)
+**A 54.1-387.5-uW 65-nm Multimodal SoC Integrating a Custom CISC Core for Edge IoT Applications**  
+Nan Wu, **Shenyu Wang**, Tian Tian, Zhihua Wang, Yanshu Guo, and Hanjun Jiang  
+*IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 34, no. 6, 2026. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%2054.1-387.5-uW%2065-nm%20Multimodal%20SoC%20Integrating%20a%20Custom%20CISC%20Core%20for%20Edge%20IoT%20Applications)
 
-1. Nan Wu, **Shenyu Wang**, Tian Tian, Zhihua Wang, Yanshu Guo, and Hanjun Jiang, "A 54.1-387.5-uW 65-nm Multimodal SoC Integrating a Custom CISC Core for Edge IoT Applications," *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 34, no. 6, 2026.
+**CrossKV: Accelerating Large Language Model Inference via Cross-Stage Dynamic Co-Optimization for KV Cache**  
+Nan Wu, **Shenyu Wang**, Huizheng Wang, Peng Wang, Xiao Liu, Zhihua Wang, Yang Hu, and Hanjun Jiang  
+*IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 73, no. 7, 2026. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=CrossKV%3A%20Accelerating%20Large%20Language%20Model%20Inference%20via%20Cross-Stage%20Dynamic%20Co-Optimization%20for%20KV%20Cache)
 
-2. Nan Wu, **Shenyu Wang**, Huizheng Wang, Peng Wang, Xiao Liu, Zhihua Wang, Yang Hu, and Hanjun Jiang, "CrossKV: Accelerating Large Language Model Inference via Cross-Stage Dynamic Co-Optimization for KV Cache," *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 73, no. 7, 2026.
+**A 3.64 uJ/frame Visual-Aided Speech Enhancement Processor Tolerating -10 dB SNR Input for Hearing Aids in 22 nm CMOS**  
+Nan Wu, **Shenyu Wang**, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Yansu Guo, Zhihua Wang, and Hanjun Jiang  
+*2025 IEEE Asian Solid-State Circuits Conference (A-SSCC)*, 2025. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%203.64%20uJ%2Fframe%20Visual-Aided%20Speech%20Enhancement%20Processor%20Tolerating%20-10%20dB%20SNR%20Input%20for%20Hearing%20Aids%20in%2022%20nm%20CMOS)
 
-3. Nan Wu, **Shenyu Wang**, Peng Wang, Heyue Li, Kaiji Liu, Xiao Liu, Yansu Guo, Zhihua Wang, and Hanjun Jiang, "A 3.64 uJ/frame Visual-Aided Speech Enhancement Processor Tolerating -10 dB SNR Input for Hearing Aids in 22 nm CMOS," *2025 IEEE Asian Solid-State Circuits Conference (A-SSCC)*, 2025.
+**A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices**  
+**Shenyu Wang**, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, and Hanjun Jiang  
+*IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)*, 2025. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%2014.15%20TOPS%2FW%20Energy-Efficient%20CNN%20Processing%20Architecture%20with%20Beyond-Sparsity%20Computing%20Engine%20towards%20Edge%20Devices)
 
-4. **Shenyu Wang**, Nan Wu, Tian Tian, Yanshu Guo, Zhihua Wang, Xiao Liu, Fei Chen, and Hanjun Jiang, "A 14.15 TOPS/W Energy-Efficient CNN Processing Architecture with Beyond-Sparsity Computing Engine towards Edge Devices," *IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)*, 2025.
-
-5. Nan Wu, **Shenyu Wang**, Yaoyu Li, Tian Tian, Yanshu Guo, Zhihua Wang, and Hanjun Jiang, "A 470 uW and 875 fps Throughput JPEG-LS Accelerator in 65 nm CMOS," *2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*, 2024.
+**A 470 uW and 875 fps Throughput JPEG-LS Accelerator in 65 nm CMOS**  
+Nan Wu, **Shenyu Wang**, Yaoyu Li, Tian Tian, Yanshu Guo, Zhihua Wang, and Hanjun Jiang  
+*2024 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*, 2024. [DOI/Link](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=A%20470%20uW%20and%20875%20fps%20Throughput%20JPEG-LS%20Accelerator%20in%2065%20nm%20CMOS)
 
 Contact
 ------------------------
