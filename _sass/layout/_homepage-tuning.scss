@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .page__content {
-  max-width: 860px;
+  max-width: none;
 }
 
 .page__content p,
@@ -68,6 +68,8 @@
   }
 
   .page {
+    padding-left: 2.5% !important;
+    padding-right: 0 !important;
     padding-bottom: 3rem;
   }
 }
